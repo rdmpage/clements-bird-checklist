@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app22.us.archive.org';v.server_ms=276;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="/static/js/ait-client-rewrite.js?v=1536297681.0" charset="utf-8"></script>
+<script type="text/javascript">
+WB_wombat_Init('https://web.archive.org/web', '20141015082557', 'assistly-production.s3.amazonaws.com');
+</script>
+<script type="text/javascript" src="/static/js/wbhack.js?v=1536297681.0" charset="utf-8"></script>
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1536297681.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1536297681.0" />
+<!-- End Wayback Rewrite JS Include --><error><code>AccessDenied</code><message>Request has expired</message><requestid>74A74F2D27063CDE</requestid><expires>2014-10-07T21:59:58Z</expires><hostid>R+SJg99n22cc5c3q6ze3k5BKYwKLZ6335b5/ayOUC2FQC0qJbinHlA9EmC4Hwosx</hostid><servertime>2014-10-15T08:25:59Z</servertime></error><!--
+     FILE ARCHIVED ON 08:25:57 Oct 15, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:22:37 Sep 19, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 97.361 (3)
+  esindex: 0.011
+  captures_list: 128.337
+  CDXLines.iter: 25.292 (3)
+  PetaboxLoader3.datanode: 98.418 (4)
+  exclusion.robots: 0.297
+  exclusion.robots.policy: 0.277
+  RedisCDXSource: 0.717
+  PetaboxLoader3.resolve: 67.32
+  load_resource: 128.295
+-->
