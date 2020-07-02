@@ -1,0 +1,1532 @@
+delete|node|comduc1
+delete|node|Sarkidiornis melanotos
+delete|node|Anas platyrhynchos platyrhynchos
+delete|node|Anas platyrhynchos platyrhynchos x
+delete|node|Melanitta fusca
+delete|node|rudduc1
+delete|node|Pagodroma nivea
+delete|node|snopet2
+delete|node|snopet3
+delete|node|roahaw1
+delete|node|Nesoclopeus
+delete|node|Nesoclopeus woodfordi
+delete|node|Crecopsis
+delete|node|Hapalocrex/Porzana/Zapornia
+delete|node|Habroptila
+delete|node|Eulabeornis
+delete|node|Porphyrio/Gallinula/Fulica
+delete|node|Zenaida macroura
+delete|node|moudov1
+delete|node|moudov2
+delete|node|socpig1
+delete|node|Goura scheepmakeri
+delete|node|litbrc4
+delete|node|sulsco1
+delete|node|webhum2
+delete|node|Schistes geoffroyi
+delete|node|whthil1
+delete|node|Urochroa bougueri
+delete|node|Dendropicos
+delete|node|Dendropicos elliotii
+delete|node|Dendropicos goertae
+delete|node|Dendropicos griseocephalus
+delete|node|Dendrocopos cathpharius
+delete|node|Picoides scalaris
+delete|node|Picoides scalaris x
+delete|node|Picoides pubescens
+delete|node|Picoides nuttallii
+delete|node|Picoides nuttallii x
+delete|node|Picoides villosus
+delete|node|Picoides pubescens x
+delete|node|picoid
+delete|node|Veniliornis
+delete|node|venili1
+delete|node|Celeus flavescens
+delete|node|Dryocopus lineatus/Campephilus
+delete|node|Picus mentalis
+delete|node|Picus viridis x
+delete|node|Dinopium javanense/Chrysocolaptes
+delete|node|Sapheopipo
+delete|node|thlant1
+delete|node|Myrmothera campanisona
+delete|node|paltyr1
+delete|node|Zimmerius vilissimus
+delete|node|strman1
+delete|node|Machaeropterus regulus
+delete|node|Malurus lamberti
+delete|node|varfai4
+delete|node|Myzomela [undescribed Rote
+delete|node|Pityriaseidae
+delete|node|sogshr2
+delete|node|Lanius meridionalis
+delete|node|sogshr1
+delete|node|Hylophilus/Tunchiornis/Pachyslvia
+delete|node|Vireo olivaceus
+delete|node|bknori3
+delete|node|vemdro2
+delete|node|hacdro2
+delete|node|ruffan2
+delete|node|Rhipidura teysmanni
+delete|node|Calandrella brachydactyla/Alaudala cheleensis/Alaudala
+delete|node|eurnut5
+delete|node|trogna4
+delete|node|libgre1
+delete|node|firecr2
+delete|node|Regulus ignicapilla
+delete|node|Seicercus
+delete|node|Seicercus grammiceps
+delete|node|seicer1
+delete|node|Urorhipis
+delete|node|Urorhipis rufifrons
+delete|node|brrwhe2
+delete|node|Zosterops capensis
+delete|node|htjfly1
+delete|node|Pseudalethe
+delete|node|Pseudalethe poliocephala
+delete|node|Nesocichla
+delete|node|slathr1
+delete|node|Turdus nigriceps
+delete|node|Turdus migratorius/Ixoreus
+delete|node|Amaurocichla
+delete|node|amepip1
+delete|node|yelpip1
+delete|node|Anthus lutescens
+delete|node|tropar6
+delete|node|tropar8
+delete|node|Ramphocelus costaricensis
+delete|node|Ramphocelus costaricensis x
+delete|node|bubmot2
+delete|node|goltan3
+delete|node|wilfin1
+delete|node|Nesospiza wilkinsi
+delete|node|barfin1
+delete|node|Poospiza nigrorufa
+delete|node|Sporophila torqueola
+delete|node|banana2
+delete|node|banana1
+delete|node|Ammodramus nelsoni
+delete|node|Ammodramus nelsoni x
+delete|node|Ammodramus maritimus
+delete|node|ammodr1
+delete|node|Spizelloides/Spizella
+delete|node|Melophus
+delete|node|Latoucheornis
+delete|node|blbgro1
+delete|node|Cyanoloxia cyanoides
+insert|node|y01080
+insert|node|Anser indicus x Branta
+insert|node|x00908
+insert|node|Radjah
+insert|node|y01098
+insert|node|Anas diazi
+insert|node|Anas diazi x
+insert|node|x00922
+insert|node|y01099
+insert|node|Anas superciliosa
+insert|node|Anas superciliosa x
+insert|node|x00926
+insert|node|x00925
+insert|node|Anas gracilis
+insert|node|Anas gracilis x
+insert|node|x00913
+insert|node|anas1
+insert|node|Anas gracilis x Aythya
+insert|node|x00912
+insert|node|whwsco4
+insert|node|Melanitta deglandi
+insert|node|x00909
+insert|node|andduc1
+insert|node|Oxyura ferruginea
+insert|node|andduc2
+insert|node|Ortalis guttata
+insert|node|specha6
+insert|node|specha5
+insert|node|y01112
+insert|node|y01078
+insert|node|Macropygia doreya
+insert|node|sulcud3
+insert|node|sulcud4
+insert|node|spgpig1
+insert|node|crowne1
+insert|node|Treron curvirostra
+insert|node|thbpig3
+insert|node|thbpig2
+insert|node|Musophagiformes
+insert|node|y01087
+insert|node|litbrc5
+insert|node|y01091
+insert|node|y01093
+insert|node|y01094
+insert|node|Caprimulgus sp.
+insert|node|Caprimulgus sp. [undescribed
+insert|node|Caprimulgus sp. [undescribed Timor
+insert|node|timnig1
+insert|node|y01084
+insert|node|y01077
+insert|node|Amazilia luciae
+insert|node|Amazilia luciae x
+insert|node|x00916
+insert|node|Gallirallus woodfordi
+insert|node|Fulica atra
+insert|node|Fulica atra x
+insert|node|x00911
+insert|node|hawcoo1
+insert|node|hawcoo2
+insert|node|Gallinula/Fulica/Porphyrio
+insert|node|Porzana/Zapornia/Hapalocrex
+insert|node|Haematopus longirostris
+insert|node|Haematopus longirostris x
+insert|node|x00928
+insert|node|y01074
+insert|node|y01125
+insert|node|x00915
+insert|node|icegul2
+insert|node|Sterna hirundo hirundo/tibetana
+insert|node|Sterna hirundo hirundo/tibetana x
+insert|node|comter3
+insert|node|Sterna hirundo x
+insert|node|x00910
+insert|node|y01065
+insert|node|thalas1
+insert|node|Eudyptes chrysolophus
+insert|node|Eudyptes chrysolophus x
+insert|node|x00921
+insert|node|Oceanitidae
+insert|node|Oceanitidae/Hydrobatidae
+insert|node|Daption capense
+insert|node|cappet1
+insert|node|cappet2
+insert|node|Fregata ariel
+insert|node|lesfri1
+insert|node|lesfri2
+insert|node|brnpel4
+insert|node|y01116
+insert|node|Clanga/Aquila
+insert|node|y01070
+insert|node|Accipiter badius
+insert|node|shikra2
+insert|node|shikra3
+insert|node|y01073
+insert|node|roahaw3
+insert|node|roahaw4
+insert|node|rethaw9
+insert|node|x00930
+insert|node|Otus brookii
+insert|node|rajsco2
+insert|node|rajsco1
+insert|node|sulsco6
+insert|node|sulsco5
+insert|node|Megascops ingens
+insert|node|rufsco2
+insert|node|foosco1
+insert|node|Megascops roraimae
+insert|node|Megascops kennicottii x
+insert|node|x00933
+insert|node|Glaucidium brodiei
+insert|node|colowl2
+insert|node|colowl3
+insert|node|burowl5
+insert|node|burowl1
+insert|node|burowl6
+insert|node|burowl4
+insert|node|burowl7
+insert|node|Strix leptogrammica
+insert|node|brnwoo2
+insert|node|brnwoo1
+insert|node|Trogon rufus
+insert|node|bkttro7
+insert|node|bkttro5
+insert|node|bkttro6
+insert|node|bkttro4
+insert|node|Harpactes oreskios
+insert|node|orbtro5
+insert|node|orbtro4
+insert|node|y01097
+insert|node|y01079
+insert|node|Pogoniulus bilineatus
+insert|node|yertin2
+insert|node|y01095
+insert|node|souemt2
+insert|node|Verreauxia
+insert|node|Yungipicus
+insert|node|Leiopicus
+insert|node|Dendrocoptes
+insert|node|Chloropicus
+insert|node|Chloropicus elliotii
+insert|node|Chloropicus goertae
+insert|node|Chloropicus griseocephalus
+insert|node|Dendrocopos major x
+insert|node|x00914
+insert|node|Dryobates
+insert|node|Dryobates cathpharius
+insert|node|Dryobates pubescens
+insert|node|Dryobates pubescens x
+insert|node|y01076
+insert|node|Dryobates nuttallii
+insert|node|Dryobates nuttallii x
+insert|node|Dryobates villosus
+insert|node|Dryobates scalaris
+insert|node|Dryobates scalaris x
+insert|node|dryoba1
+insert|node|Chrysocolaptes guttacristatus/Dinopium
+insert|node|y01090
+insert|node|Picus canus x
+insert|node|Chrysophlegma
+insert|node|Picus chlorolophus/Chrysophlegma
+insert|node|Chrysophlegma mentale
+insert|node|Campephilus sp./Dryocopus
+insert|node|Colaptes auratus x
+insert|node|x00924
+insert|node|y01111
+insert|node|Cacatua sanguinea
+insert|node|Cacatua sanguinea x
+insert|node|x00920
+insert|node|Coracopsis
+insert|node|y01061
+insert|node|Psittacula longicauda
+insert|node|lotpar3
+insert|node|lotpar6
+insert|node|lotpar5
+insert|node|lotpar4
+insert|node|Traversia
+insert|node|rufant12
+insert|node|y01114
+insert|node|y01113
+insert|node|Epinecrophylla haematonota
+insert|node|Epinecrophylla haematonota x
+insert|node|x00931
+insert|node|Microrhopias quixensis
+insert|node|dowant3
+insert|node|dowant5
+insert|node|dowant7
+insert|node|dowant6
+insert|node|dowant8
+insert|node|dowant2
+insert|node|dowant4
+insert|node|Oneillornis
+insert|node|stcant9
+insert|node|stcant8
+insert|node|Thripophaga fusciceps
+insert|node|plasof2
+insert|node|plasof4
+insert|node|plasof3
+insert|node|licspi5
+insert|node|Cranioleuca antisiensis
+insert|node|Synallaxis stictothorax [undescribed
+insert|node|Synallaxis stictothorax [undescribed La
+insert|node|Synallaxis stictothorax [undescribed La Libertad
+insert|node|necspi4
+insert|node|y01089
+insert|node|pertyr2
+insert|node|Hemitriccus minor
+insert|node|snetot1
+insert|node|snetot2
+insert|node|Pyrrhomyias cinnamomeus
+insert|node|cinfly3
+insert|node|cinfly4
+insert|node|cinfly1
+insert|node|ducfly6
+insert|node|ducfly5
+insert|node|Myiarchus swainsoni
+insert|node|swafly2
+insert|node|swafly4
+insert|node|Chiroxiphia pareola
+insert|node|bubman2
+insert|node|bubman1
+insert|node|bubman3
+insert|node|strman5
+insert|node|Machaeropterus striolatus
+insert|node|y01121
+insert|node|austre1
+insert|node|Malurus assimilis
+insert|node|varfai5
+insert|node|y01109
+insert|node|y01063
+insert|node|Phylidonyris novaehollandiae
+insert|node|Phylidonyris novaehollandiae x
+insert|node|x00923
+insert|node|y01096
+insert|node|Pityriasidae
+insert|node|y01115
+insert|node|Pseudorectes
+insert|node|litshr6
+insert|node|litshr1
+insert|node|litshr3
+insert|node|litshr5
+insert|node|litshr4
+insert|node|litshr2
+insert|node|Platylophidae
+insert|node|ibgshr1
+insert|node|Lanius excubitor
+insert|node|grgshr2
+insert|node|grgshr4
+insert|node|grgshr1
+insert|node|grgshr5
+insert|node|grgshr3
+insert|node|Hylophilus/Tunchiornis/Pachysylvia
+insert|node|chivir1
+insert|node|Vireo chivi
+insert|node|bknori4
+insert|node|bknori6
+insert|node|bknori5
+insert|node|bknori7
+insert|node|Dicrurus ludwigii
+insert|node|sqtdro2
+insert|node|sqtdro3
+insert|node|Dicrurus adsimilis
+insert|node|fotdro4
+insert|node|fotdro3
+insert|node|fotdro2
+insert|node|vemdro5
+insert|node|vemdro4
+insert|node|hacdro6
+insert|node|hacdro4
+insert|node|hacdro7
+insert|node|hacdro12
+insert|node|hacdro8
+insert|node|hacdro10
+insert|node|hacdro9
+insert|node|hacdro5
+insert|node|hacdro11
+insert|node|Dicrurus sumatranus
+insert|node|sumdro3
+insert|node|sumdro2
+insert|node|Dicrurus densus
+insert|node|waldro4
+insert|node|waldro2
+insert|node|waldro5
+insert|node|waldro7
+insert|node|waldro6
+insert|node|waldro3
+insert|node|Dicrurus bracteatus
+insert|node|spadro7
+insert|node|spadro5
+insert|node|spadro3
+insert|node|spadro9
+insert|node|spadro8
+insert|node|spadro2
+insert|node|spadro4
+insert|node|spadro6
+insert|node|spadro10
+insert|node|bacdro1
+insert|node|y01067
+insert|node|orimag1
+insert|node|y01104
+insert|node|Corvus cornix
+insert|node|hoocro2
+insert|node|hoocro3
+insert|node|Paradisaea raggiana
+insert|node|Paradisaea raggiana x
+insert|node|x00929
+insert|node|y01118
+insert|node|y01086
+insert|node|Melanochlora sultanea
+insert|node|sultit3
+insert|node|sultit2
+insert|node|y01066
+insert|node|Parus minor
+insert|node|japtit4
+insert|node|japtit2
+insert|node|japtit1
+insert|node|japtit5
+insert|node|japtit3
+insert|node|eurnut9
+insert|node|eurnut10
+insert|node|eurnut7
+insert|node|eurnut8
+insert|node|Polioptila albiloris
+insert|node|whlgna2
+insert|node|whlgna3
+insert|node|trogna9
+insert|node|trogna6
+insert|node|trogna8
+insert|node|trogna7
+insert|node|trogna5
+insert|node|Brachypodius
+insert|node|Rubigula
+insert|node|Nok
+insert|node|pycnon3
+insert|node|Brachypodius/Rubigula/Pycnonotus
+insert|node|goldcr6
+insert|node|goldcr7
+insert|node|goldcr5
+insert|node|Sylvietta brachyura
+insert|node|norcro3
+insert|node|norcro2
+insert|node|y01101
+insert|node|Phylloscopus trochiloides
+insert|node|grewar6
+insert|node|grewar5
+insert|node|grewar4
+insert|node|y01088
+insert|node|Phylloscopus grammiceps
+insert|node|Phylloscopus [undescribed
+insert|node|Phylloscopus [undescribed Rote
+insert|node|Arundinax
+insert|node|y01100
+insert|node|dabwar1
+insert|node|jabwar1
+insert|node|Locustella montis
+insert|node|Oreophilais
+insert|node|Phragmacia
+insert|node|Oreolais
+insert|node|Prinia rufifrons
+insert|node|y01127
+insert|node|Sylvia mystacea
+insert|node|menwar2
+insert|node|menwar3
+insert|node|afywhe3
+insert|node|afywhe4
+insert|node|brrwhe6
+insert|node|brrwhe7
+insert|node|brrwhe9
+insert|node|brrwhe8
+insert|node|brrwhe10
+insert|node|Zosterops virens
+insert|node|y01105
+insert|node|y01110
+insert|node|y01119
+insert|node|Pomatorhinus montanus
+insert|node|chbscb2
+insert|node|chbscb1
+insert|node|Laticilla
+insert|node|Turdinus sepiarius
+insert|node|horbab1
+insert|node|horbab3
+insert|node|horbab4
+insert|node|y01072
+insert|node|y01085
+insert|node|y01092
+insert|node|Cyornis poliogenys
+insert|node|Cyornis poliogenys x
+insert|node|x00927
+insert|node|y01069
+insert|node|banjuf1
+insert|node|suljuf1
+insert|node|y01103
+insert|node|Chamaetylas
+insert|node|Chamaetylas poliocephala
+insert|node|y01124
+insert|node|y01071
+insert|node|y01123
+insert|node|Otocichla
+insert|node|Ixoreus naevius/Turdus
+insert|node|Mimus gundlachii
+insert|node|Mimus gundlachii x
+insert|node|x00907
+insert|node|y01122
+insert|node|y01106
+insert|node|Motacilla flava x
+insert|node|x00934
+insert|node|Anthus furcatus
+insert|node|shbpip3
+insert|node|shbpip2
+insert|node|y01064
+insert|node|y01075
+insert|node|y01108
+insert|node|Pinicola enucleator
+insert|node|pingro2
+insert|node|pingro3
+insert|node|pingro4
+insert|node|pingro5
+insert|node|pingro1
+insert|node|pingro6
+insert|node|redcro29
+insert|node|Calcarius lapponicus
+insert|node|Calcarius lapponicus x
+insert|node|Calcarius lapponicus x Plectrophenax
+insert|node|x00919
+insert|node|Emberiza godlewskii
+insert|node|godbun2
+insert|node|godbun3
+insert|node|y01126
+insert|node|y01083
+insert|node|Arremon flavirostris
+insert|node|sabspa4
+insert|node|sabspa2
+insert|node|sabspa3
+insert|node|Spizella/Spizelloides
+insert|node|Zonotrichia capensis
+insert|node|rucspa6
+insert|node|rucspa5
+insert|node|Ammospiza
+insert|node|Ammospiza maritima
+insert|node|Ammospiza nelsoni
+insert|node|Ammospiza nelsoni x
+insert|node|ammosp1
+insert|node|Centronyx
+insert|node|Ammodramus savannarum/Centronyx
+insert|node|y01082
+insert|node|y01081
+insert|node|Teretistris fernandinae
+insert|node|Teretistris fernandinae x
+insert|node|x00935
+insert|node|Leistes
+insert|node|y01117
+insert|node|Agelasticus cyanopus
+insert|node|unibla1
+insert|node|unibla3
+insert|node|tropar9
+insert|node|x00937
+insert|node|y01068
+insert|node|Passerina cyanea
+insert|node|Passerina cyanea x
+insert|node|x00918
+insert|node|Ramphocelus passerinii
+insert|node|Ramphocelus passerinii x
+insert|node|bubmot4
+insert|node|bubmot3
+insert|node|goltan4
+insert|node|goltan5
+insert|node|Conirostrum albifrons
+insert|node|capcon3
+insert|node|capcon2
+insert|node|inifin1
+insert|node|y01102
+insert|node|Sporophila leucoptera
+insert|node|whbsee3
+insert|node|whbsee4
+insert|node|banana6
+insert|node|banana11
+insert|node|banana9
+insert|node|banana12
+insert|node|banana7
+insert|node|banana10
+insert|node|banana8
+insert|node|banana5
+insert|node|Camarhynchus pallidus
+insert|node|woofin2
+insert|node|woofin3
+insert|node|x00917
+insert|node|Gymnornis
+insert|node|y01062
+insert|node|y01120
+insert|node|nigrit1
+insert|node|y01107
+insert|node|parrot2
+insert|node|Lonchura malacca
+insert|node|Lonchura malacca x
+insert|node|x00932
+insert|node|Lonchura flaviprymna
+insert|node|Lonchura flaviprymna x
+insert|node|x00936
+delete|branch|Tadorna|radshe1
+delete|branch|Anas|dabduc1
+delete|branch|Anas|teal
+delete|branch|Anas platyrhynchos|mexduc
+delete|branch|Anas platyrhynchos|mallar3
+delete|branch|Oxyura jamaicensis|rudduc2
+delete|branch|Hydrobatidae|stopet
+delete|branch|Hydrobatidae|storm-2
+delete|branch|Hydrobatidae|storm-1
+delete|branch|Hydrobatidae|Nesofregetta
+delete|branch|Hydrobatidae|Fregetta
+delete|branch|Hydrobatidae|Pelagodroma
+delete|branch|Hydrobatidae|Garrodia
+delete|branch|Hydrobatidae|Oceanites
+delete|branch|Gallirallus|slbrai1
+delete|branch|Cuculiformes|Musophagidae
+delete|branch|Megascops|colsco1
+delete|branch|Megascops guatemalae|versco3
+delete|branch|Megascops guatemalae|versco4
+delete|branch|Megascops guatemalae|versco2
+delete|branch|Ninox|whbowl1
+delete|branch|Campylopterus largipennis|gybsab4
+delete|branch|Pogoniulus|whctin1
+delete|branch|Sasia|afrpic1
+delete|branch|Dendrocopos|miswoo1
+delete|branch|Dendrocopos|y00964
+delete|branch|Dendrocopos|crbwoo3
+delete|branch|Dendrocopos|arawoo1
+delete|branch|Dendrocopos|yecwoo1
+delete|branch|Dendrocopos|brfwoo1
+delete|branch|Dendrocopos|leswoo1
+delete|branch|Dendrocopos|pygwoo1
+delete|branch|Dendrocopos|y00735
+delete|branch|Dendrocopos|gycwoo1
+delete|branch|Dendrocopos|bncwoo2
+delete|branch|Dendrocopos|bncwoo3
+delete|branch|Dendrocopos|phiwoo3
+delete|branch|Dendrocopos|phiwoo1
+delete|branch|Dendrocopos|sulwoo2
+delete|branch|Picoides|whhwoo
+delete|branch|Picoides|recwoo
+delete|branch|Picoides|strwoo
+delete|branch|Picoides|ariwoo
+delete|branch|Picoides|y00322
+delete|branch|Picoides|haiwoo
+delete|branch|Picoides|smbwoo1
+delete|branch|Picoides|dowwoo
+delete|branch|Picoides|y00965
+delete|branch|Picoides|nutwoo
+delete|branch|Picoides|labwoo
+delete|branch|Picus|chtwoo1
+delete|branch|Picus|y00736
+delete|branch|Picus|greyel1
+delete|branch|Picus|banwoo2
+delete|branch|Mascarinus|y00873
+delete|branch|Mascarinus|blapar1
+delete|branch|Mascarinus|seypar1
+delete|branch|Mascarinus|vaspar1
+delete|branch|Xenicus|stiwre1
+delete|branch|Percnostola|whlant1
+delete|branch|Gymnopithys|lunant2
+delete|branch|Gymnopithys|whtant1
+delete|branch|Grallaricula ferrugineipectus|rubant7
+delete|branch|Automolus ochrolaemus|butfog4
+delete|branch|Cranioleuca|barspi1
+delete|branch|Cranioleuca|licspi2
+delete|branch|Zimmerius chrysops|goftyr4
+delete|branch|Laniarius poensis|mosbou4
+delete|branch|Colluricincla|whbpit1
+delete|branch|Colluricincla|ruspit1
+delete|branch|Rhipiduridae|pelfan1
+delete|branch|Monarchidae|Eutrichomyias
+delete|branch|Corvidae|Platylophus
+delete|branch|Pica pica|eurmag6
+delete|branch|Pica pica|eurmag5
+delete|branch|Pica pica|eurmag3
+delete|branch|Pycnonotus|pycnon1
+delete|branch|Pycnonotus|bafbul1
+delete|branch|Pycnonotus|spebul1
+delete|branch|Pycnonotus|gybbul1
+delete|branch|Pycnonotus|scbbul1
+delete|branch|Pycnonotus|bkcbul4
+delete|branch|Pycnonotus|bkcbul3
+delete|branch|Pycnonotus|blcbul2
+delete|branch|Pycnonotus|bkcbul2
+delete|branch|Pycnonotus|bkcbul1
+delete|branch|Pycnonotus|gyhbul1
+delete|branch|Pycnonotus|yewbul1
+delete|branch|Pycnonotus|andbul1
+delete|branch|Pycnonotus|blhbul1
+delete|branch|Pycnonotus|pubbul1
+delete|branch|Pycnonotus|bawbul2
+delete|branch|Regulus|caikin1
+delete|branch|Phylloscopidae|rolwar1
+delete|branch|Iduna|thbwar1
+delete|branch|Locustella|timbuw1
+delete|branch|Locustella|javbuw1
+delete|branch|Apalis|ruwapa1
+delete|branch|Apalis|blcapa2
+delete|branch|Prinia|robpri1
+delete|branch|Prinia|nampri1
+delete|branch|Prinia|swapri1
+delete|branch|Prinia|ruvpri1
+delete|branch|Muscicapidae|Grandala
+delete|branch|Turdus|chithr2
+delete|branch|Turdus poliocephalus|islthr24
+delete|branch|Geothlypis aequinoctialis|masyel3
+delete|branch|Thraupidae|Orthogonys
+delete|branch|Thraupidae|Lamprospiza
+delete|branch|Ramphocelus|chetan1
+delete|branch|Ramphocelus|pastan1
+delete|branch|Nesospiza acunhae|nigfin3
+delete|branch|Loxigilla|grabul1
+delete|branch|Loxigilla|purbul1
+delete|branch|Ammodramus|seaspa
+delete|branch|Ammodramus|shtspa
+delete|branch|Ammodramus|sstspa
+delete|branch|Ammodramus|nstspa
+delete|branch|Ammodramus|lecspa
+delete|branch|Ammodramus|henspa
+delete|branch|Ammodramus|baispa
+delete|branch|Sturnella|lotmea1
+delete|branch|Sturnella|pammea1
+delete|branch|Sturnella|permea1
+delete|branch|Sturnella|whbbla2
+delete|branch|Sturnella|rebbla1
+delete|branch|Petronia|buspet1
+delete|branch|Petronia|yetpet1
+delete|branch|Petronia|chspet1
+delete|branch|Petronia|yespet1
+insert|branch|Anatidae|dabduc1
+insert|branch|Anatidae|teal
+insert|branch|Sarkidiornis|comduc3
+insert|branch|Sarkidiornis|comduc2
+insert|branch|Anas|mexduc
+insert|branch|Anas|mallar3
+insert|branch|Anas platyrhynchos x|mallar4
+insert|branch|Melanitta|whwsco3
+insert|branch|Goura|soucrp2
+insert|branch|Goura|soucrp1
+insert|branch|Schistes|webhum1
+insert|branch|Schistes|webhum3
+insert|branch|Urochroa|whthil3
+insert|branch|Urochroa|whthil2
+insert|branch|Campylopterus|gybsab4
+insert|branch|Crex|afrcra1
+insert|branch|Lewinia|slbrai1
+insert|branch|Gallirallus|bawrai1
+insert|branch|Gallirallus|woorai1
+insert|branch|Gallirallus|cherai1
+insert|branch|Gallirallus|invrai1
+insert|branch|Megascops|versco2
+insert|branch|Athene|whbowl1
+insert|branch|Dendrocopos|okiwoo1
+insert|branch|Celeus|blcwoo4
+insert|branch|Celeus|blcwoo5
+insert|branch|Myrmoborus|whlant1
+insert|branch|Myrmothera|thlant3
+insert|branch|Myrmothera|thlant2
+insert|branch|Grallaricula|rubant7
+insert|branch|Automolus|butfog4
+insert|branch|Zimmerius|paltyr5
+insert|branch|Zimmerius|paltyr4
+insert|branch|Zimmerius|paltyr3
+insert|branch|Zimmerius|paltyr2
+insert|branch|Zimmerius viridiflavus|goftyr4
+insert|branch|Machaeropterus|strman2
+insert|branch|Myzomela|rotmyz2
+insert|branch|Laniarius|mosbou4
+insert|branch|Vireo|reevir1
+insert|branch|Rhipiduridae|Eutrichomyias
+insert|branch|Rhipidura|pelfan1
+insert|branch|Rhipidura|rubfan3
+insert|branch|Rhipidura|rubfan2
+insert|branch|Pica|eurmag6
+insert|branch|Pica|eurmag5
+insert|branch|Pica|eurmag3
+insert|branch|Calandrella brachydactyla/Alaudala|y00675
+insert|branch|Regulus|firecr1
+insert|branch|Regulus|firecr3
+insert|branch|Regulus regulus|caikin1
+insert|branch|Phylloscopus|sunwar1
+insert|branch|Phylloscopus|yebwar2
+insert|branch|Phylloscopus|chcwar2
+insert|branch|Phylloscopus|seicer2
+insert|branch|Phylloscopus|pltwar1
+insert|branch|Phylloscopus|y00995
+insert|branch|Phylloscopus|marwar4
+insert|branch|Phylloscopus|y00650
+insert|branch|Phylloscopus|biawar1
+insert|branch|Phylloscopus|y00994
+insert|branch|Phylloscopus|y00993
+insert|branch|Phylloscopus|whiwar2
+insert|branch|Phylloscopus|gycwar1
+insert|branch|Phylloscopus|goswar1
+insert|branch|Phylloscopus|gycwar2
+insert|branch|Phylloscopus|whswar1
+insert|branch|Prinia|refwar2
+insert|branch|Turdidae|Grandala
+insert|branch|Turdus|islthr24
+insert|branch|Turdus|slathr2
+insert|branch|Turdus|trithr1
+insert|branch|Turdus|slathr3
+insert|branch|Motacilla|boclon2
+insert|branch|Anthus|yelpip3
+insert|branch|Anthus|yelpip2
+insert|branch|Emberiza|slabun1
+insert|branch|Emberiza|crebun1
+insert|branch|Geothlypis semiflava|masyel3
+insert|branch|Mitrospingidae|Orthogonys
+insert|branch|Mitrospingidae|Lamprospiza
+insert|branch|Cyanoloxia|bubgro2
+insert|branch|Cyanoloxia|bubgro1
+insert|branch|Nesospiza|wilfin3
+insert|branch|Nesospiza|nigfin3
+insert|branch|Nesospiza acunhae|wilfin2
+insert|branch|Poospiza|barwaf1
+insert|branch|Poospiza|barwaf2
+insert|branch|Sporophila|whcsee2
+insert|branch|Sporophila|whcsee1
+insert|branch|Melopyrrha|grabul1
+insert|branch|Melopyrrha|purbul1
+insert|branch|Aves|Musophagiformes
+insert|branch|Anatidae|Radjah
+insert|branch|Dendrocygna|y01080
+insert|branch|Anser indicus x|Anser indicus x Branta
+insert|branch|Anser indicus x Branta|x00908
+insert|branch|Radjah|radshe1
+insert|branch|Anas|anas1
+insert|branch|Anas|Anas gracilis
+insert|branch|Anas|Anas superciliosa
+insert|branch|Anas|y01099
+insert|branch|Anas|Anas diazi
+insert|branch|Anas platyrhynchos x|y01098
+insert|branch|Anas diazi|Anas diazi x
+insert|branch|Anas diazi x|x00922
+insert|branch|Anas superciliosa|Anas superciliosa x
+insert|branch|Anas superciliosa x|x00925
+insert|branch|Anas superciliosa x|x00926
+insert|branch|Anas gracilis|Anas gracilis x
+insert|branch|Anas gracilis x|Anas gracilis x Aythya
+insert|branch|Anas gracilis x|x00913
+insert|branch|Anas gracilis x Aythya|x00912
+insert|branch|Melanitta|Melanitta deglandi
+insert|branch|Melanitta|whwsco4
+insert|branch|Melanitta deglandi|whwsco2
+insert|branch|Melanitta deglandi|whwsco1
+insert|branch|Bucephala albeola x|x00909
+insert|branch|Oxyura|Oxyura ferruginea
+insert|branch|Oxyura|andduc1
+insert|branch|Oxyura ferruginea|rudduc2
+insert|branch|Oxyura ferruginea|andduc2
+insert|branch|Ortalis|Ortalis guttata
+insert|branch|Ortalis guttata|specha5
+insert|branch|Ortalis guttata|specha6
+insert|branch|Columba|y01112
+insert|branch|Streptopelia|y01078
+insert|branch|Macropygia|Macropygia doreya
+insert|branch|Macropygia doreya|sulcud4
+insert|branch|Macropygia doreya|sulcud3
+insert|branch|Caloenas|spgpig1
+insert|branch|Goura|crowne1
+insert|branch|Treron|Treron curvirostra
+insert|branch|Treron curvirostra|thbpig2
+insert|branch|Treron curvirostra|thbpig3
+insert|branch|Musophagiformes|Musophagidae
+insert|branch|Centropus|y01087
+insert|branch|Chrysococcyx minutillus|litbrc5
+insert|branch|Hierococcyx|y01091
+insert|branch|Cuculus|y01094
+insert|branch|Cuculus|y01093
+insert|branch|Caprimulgus|Caprimulgus sp.
+insert|branch|Caprimulgus sp.|Caprimulgus sp. [undescribed
+insert|branch|Caprimulgus sp. [undescribed|Caprimulgus sp. [undescribed Timor
+insert|branch|Caprimulgus sp. [undescribed Timor|timnig1
+insert|branch|Collocalia|y01077
+insert|branch|Collocalia|y01084
+insert|branch|Amazilia|Amazilia luciae
+insert|branch|Amazilia luciae|Amazilia luciae x
+insert|branch|Amazilia luciae x|x00916
+insert|branch|Rallidae|Porzana/Zapornia/Hapalocrex
+insert|branch|Rallidae|Gallinula/Fulica/Porphyrio
+insert|branch|Gallirallus|Gallirallus woodfordi
+insert|branch|Gallirallus woodfordi|woorai4
+insert|branch|Gallirallus woodfordi|woorai3
+insert|branch|Gallirallus woodfordi|woorai2
+insert|branch|Fulica|hawcoo2
+insert|branch|Fulica|hawcoo1
+insert|branch|Fulica|Fulica atra
+insert|branch|Fulica atra|Fulica atra x
+insert|branch|Fulica atra x|x00911
+insert|branch|Gallinula/Fulica/Porphyrio|y00614
+insert|branch|Porzana/Zapornia/Hapalocrex|porzan1
+insert|branch|Haematopus|Haematopus longirostris
+insert|branch|Haematopus longirostris|Haematopus longirostris x
+insert|branch|Haematopus longirostris x|x00928
+insert|branch|Calidris|y01074
+insert|branch|Gallinago|y01125
+insert|branch|Larus argentatus x|x00915
+insert|branch|Larus glaucoides|icegul2
+insert|branch|Sterna|y01065
+insert|branch|Sterna hirundo|Sterna hirundo x
+insert|branch|Sterna hirundo|Sterna hirundo hirundo/tibetana
+insert|branch|Sterna hirundo hirundo/tibetana|Sterna hirundo hirundo/tibetana x
+insert|branch|Sterna hirundo hirundo/tibetana x|comter3
+insert|branch|Sterna hirundo x|x00910
+insert|branch|Thalasseus|thalas1
+insert|branch|Eudyptes|Eudyptes chrysolophus
+insert|branch|Eudyptes chrysolophus|Eudyptes chrysolophus x
+insert|branch|Eudyptes chrysolophus x|x00921
+insert|branch|Procellariiformes|Oceanitidae/Hydrobatidae
+insert|branch|Procellariiformes|Oceanitidae
+insert|branch|Oceanitidae|Nesofregetta
+insert|branch|Oceanitidae|Fregetta
+insert|branch|Oceanitidae|Pelagodroma
+insert|branch|Oceanitidae|Garrodia
+insert|branch|Oceanitidae|Oceanites
+insert|branch|Oceanitidae/Hydrobatidae|stopet
+insert|branch|Oceanitidae/Hydrobatidae|storm-2
+insert|branch|Oceanitidae/Hydrobatidae|storm-1
+insert|branch|Daption|Daption capense
+insert|branch|Daption capense|cappet2
+insert|branch|Daption capense|cappet1
+insert|branch|Fregata|Fregata ariel
+insert|branch|Fregata ariel|lesfri2
+insert|branch|Fregata ariel|lesfri1
+insert|branch|Pelecanus occidentalis|brnpel4
+insert|branch|Ixobrychus|y01116
+insert|branch|Accipitridae|Clanga/Aquila
+insert|branch|Clanga/Aquila|y01070
+insert|branch|Accipiter|y01073
+insert|branch|Accipiter|Accipiter badius
+insert|branch|Accipiter badius|shikra3
+insert|branch|Accipiter badius|shikra2
+insert|branch|Rupornis magnirostris|roahaw4
+insert|branch|Rupornis magnirostris|roahaw3
+insert|branch|Buteo jamaicensis|rethaw9
+insert|branch|Buteo jamaicensis x|x00930
+insert|branch|Otus|Otus brookii
+insert|branch|Otus brookii|rajsco1
+insert|branch|Otus brookii|rajsco2
+insert|branch|Otus manadensis|sulsco5
+insert|branch|Otus manadensis|sulsco6
+insert|branch|Megascops|Megascops roraimae
+insert|branch|Megascops|foosco1
+insert|branch|Megascops|Megascops ingens
+insert|branch|Megascops ingens|rufsco2
+insert|branch|Megascops ingens|colsco1
+insert|branch|Megascops roraimae|versco3
+insert|branch|Megascops roraimae|versco4
+insert|branch|Megascops kennicottii|Megascops kennicottii x
+insert|branch|Megascops kennicottii x|x00933
+insert|branch|Glaucidium|Glaucidium brodiei
+insert|branch|Glaucidium brodiei|colowl3
+insert|branch|Glaucidium brodiei|colowl2
+insert|branch|Athene cunicularia|burowl7
+insert|branch|Athene cunicularia|burowl4
+insert|branch|Athene cunicularia|burowl6
+insert|branch|Athene cunicularia|burowl1
+insert|branch|Athene cunicularia|burowl5
+insert|branch|Strix|Strix leptogrammica
+insert|branch|Strix leptogrammica|brnwoo1
+insert|branch|Strix leptogrammica|brnwoo2
+insert|branch|Trogon|Trogon rufus
+insert|branch|Trogon rufus|bkttro4
+insert|branch|Trogon rufus|bkttro6
+insert|branch|Trogon rufus|bkttro5
+insert|branch|Trogon rufus|bkttro7
+insert|branch|Harpactes|Harpactes oreskios
+insert|branch|Harpactes oreskios|orbtro4
+insert|branch|Harpactes oreskios|orbtro5
+insert|branch|Anthracoceros|y01097
+insert|branch|Coracias|y01079
+insert|branch|Pogoniulus|Pogoniulus bilineatus
+insert|branch|Pogoniulus bilineatus|whctin1
+insert|branch|Pogoniulus bilineatus|yertin2
+insert|branch|Psilopogon|y01095
+insert|branch|Aulacorhynchus albivitta|souemt2
+insert|branch|Picidae|Chrysophlegma
+insert|branch|Picidae|Dryobates
+insert|branch|Picidae|Chloropicus
+insert|branch|Picidae|Dendrocoptes
+insert|branch|Picidae|Leiopicus
+insert|branch|Picidae|Yungipicus
+insert|branch|Picidae|Verreauxia
+insert|branch|Verreauxia|afrpic1
+insert|branch|Yungipicus|pygwoo1
+insert|branch|Yungipicus|y00735
+insert|branch|Yungipicus|gycwoo1
+insert|branch|Yungipicus|bncwoo2
+insert|branch|Yungipicus|bncwoo3
+insert|branch|Yungipicus|phiwoo3
+insert|branch|Yungipicus|phiwoo1
+insert|branch|Yungipicus|sulwoo2
+insert|branch|Leiopicus|yecwoo1
+insert|branch|Dendrocoptes|arawoo1
+insert|branch|Dendrocoptes|brfwoo1
+insert|branch|Dendrocoptes|miswoo1
+insert|branch|Chloropicus|Chloropicus griseocephalus
+insert|branch|Chloropicus|oliwoo2
+insert|branch|Chloropicus|gyhwoo1
+insert|branch|Chloropicus|Chloropicus goertae
+insert|branch|Chloropicus|grywoo1
+insert|branch|Chloropicus|brbwoo1
+insert|branch|Chloropicus|stiwoo1
+insert|branch|Chloropicus|gocwoo3
+insert|branch|Chloropicus|fibwoo1
+insert|branch|Chloropicus|beawoo1
+insert|branch|Chloropicus|carwoo1
+insert|branch|Chloropicus|spbwoo2
+insert|branch|Chloropicus|ligwoo3
+insert|branch|Chloropicus|Chloropicus elliotii
+insert|branch|Chloropicus|ellwoo1
+insert|branch|Chloropicus|gabwoo1
+insert|branch|Chloropicus|melwoo1
+insert|branch|Chloropicus|abywoo1
+insert|branch|Chloropicus elliotii|ellwoo3
+insert|branch|Chloropicus elliotii|ellwoo2
+insert|branch|Chloropicus goertae|afgwoo2
+insert|branch|Chloropicus goertae|afgwoo1
+insert|branch|Chloropicus griseocephalus|oliwoo10
+insert|branch|Chloropicus griseocephalus|oliwoo9
+insert|branch|Chloropicus griseocephalus|oliwoo8
+insert|branch|Dendrocopos major|Dendrocopos major x
+insert|branch|Dendrocopos major x|x00914
+insert|branch|Dryobates|dryoba1
+insert|branch|Dryobates|yeewoo1
+insert|branch|Dryobates|chowoo1
+insert|branch|Dryobates|y00871
+insert|branch|Dryobates|reswoo1
+insert|branch|Dryobates|babwoo2
+insert|branch|Dryobates|yevwoo1
+insert|branch|Dryobates|scbwoo3
+insert|branch|Dryobates|dofwoo1
+insert|branch|Dryobates|litwoo2
+insert|branch|Dryobates|blcwoo3
+insert|branch|Dryobates|strwoo6
+insert|branch|Dryobates|chewoo3
+insert|branch|Dryobates|whswoo2
+insert|branch|Dryobates|gocwoo2
+insert|branch|Dryobates|rerwoo1
+insert|branch|Dryobates|ariwoo
+insert|branch|Dryobates|strwoo
+insert|branch|Dryobates|smbwoo1
+insert|branch|Dryobates|whhwoo
+insert|branch|Dryobates|Dryobates scalaris
+insert|branch|Dryobates|y00322
+insert|branch|Dryobates|Dryobates villosus
+insert|branch|Dryobates|haiwoo
+insert|branch|Dryobates|recwoo
+insert|branch|Dryobates|y00965
+insert|branch|Dryobates|Dryobates nuttallii
+insert|branch|Dryobates|y01076
+insert|branch|Dryobates|labwoo
+insert|branch|Dryobates|nutwoo
+insert|branch|Dryobates|Dryobates pubescens
+insert|branch|Dryobates|dowwoo
+insert|branch|Dryobates|y00964
+insert|branch|Dryobates|Dryobates cathpharius
+insert|branch|Dryobates|crbwoo3
+insert|branch|Dryobates|leswoo1
+insert|branch|Dryobates cathpharius|crbwoo7
+insert|branch|Dryobates cathpharius|crbwoo6
+insert|branch|Dryobates pubescens|Dryobates pubescens x
+insert|branch|Dryobates pubescens|dowwoo3
+insert|branch|Dryobates pubescens|dowwoo2
+insert|branch|Dryobates pubescens|dowwoo1
+insert|branch|Dryobates pubescens x|x00803
+insert|branch|Dryobates pubescens x|x00801
+insert|branch|Dryobates pubescens x|x00662
+insert|branch|Dryobates nuttallii|Dryobates nuttallii x
+insert|branch|Dryobates nuttallii x|x00663
+insert|branch|Dryobates nuttallii x|x00620
+insert|branch|Dryobates villosus|haiwoo3
+insert|branch|Dryobates villosus|haiwoo4
+insert|branch|Dryobates villosus|haiwoo5
+insert|branch|Dryobates villosus|haiwoo1
+insert|branch|Dryobates villosus|haiwoo2
+insert|branch|Dryobates scalaris|Dryobates scalaris x
+insert|branch|Dryobates scalaris x|x00802
+insert|branch|Chrysocolaptes|Chrysocolaptes guttacristatus/Dinopium
+insert|branch|Campephilus|Campephilus sp./Dryocopus
+insert|branch|Dinopium|y01090
+insert|branch|Chrysocolaptes guttacristatus/Dinopium|y00737
+insert|branch|Picus|Picus chlorolophus/Chrysophlegma
+insert|branch|Picus canus|Picus canus x
+insert|branch|Picus canus x|x00855
+insert|branch|Chrysophlegma|Chrysophlegma mentale
+insert|branch|Chrysophlegma|chtwoo1
+insert|branch|Chrysophlegma|greyel1
+insert|branch|Chrysophlegma|banwoo2
+insert|branch|Picus chlorolophus/Chrysophlegma|y00736
+insert|branch|Chrysophlegma mentale|chtwoo3
+insert|branch|Chrysophlegma mentale|chtwoo2
+insert|branch|Campephilus sp./Dryocopus|y00679
+insert|branch|Colaptes auratus|Colaptes auratus x
+insert|branch|Colaptes auratus x|x00924
+insert|branch|Falco|y01111
+insert|branch|Cacatua|Cacatua sanguinea
+insert|branch|Cacatua sanguinea|Cacatua sanguinea x
+insert|branch|Cacatua sanguinea x|x00920
+insert|branch|Psittaculidae|Coracopsis
+insert|branch|Coracopsis|seypar1
+insert|branch|Coracopsis|y00873
+insert|branch|Coracopsis|blapar1
+insert|branch|Coracopsis|vaspar1
+insert|branch|Psittacula|Psittacula longicauda
+insert|branch|Psittacula|y01061
+insert|branch|Psittacula longicauda|lotpar4
+insert|branch|Psittacula longicauda|lotpar5
+insert|branch|Psittacula longicauda|lotpar6
+insert|branch|Psittacula longicauda|lotpar3
+insert|branch|Passeriformes|Platylophidae
+insert|branch|Passeriformes|Pityriasidae
+insert|branch|Acanthisittidae|Traversia
+insert|branch|Traversia|stiwre1
+insert|branch|Thamnophilidae|Oneillornis
+insert|branch|Thamnistes|y01114
+insert|branch|Thamnistes|rufant12
+insert|branch|Epinecrophylla|Epinecrophylla haematonota
+insert|branch|Epinecrophylla|y01113
+insert|branch|Epinecrophylla haematonota|Epinecrophylla haematonota x
+insert|branch|Epinecrophylla haematonota x|x00931
+insert|branch|Microrhopias|Microrhopias quixensis
+insert|branch|Microrhopias quixensis|dowant4
+insert|branch|Microrhopias quixensis|dowant2
+insert|branch|Microrhopias quixensis|dowant8
+insert|branch|Microrhopias quixensis|dowant6
+insert|branch|Microrhopias quixensis|dowant7
+insert|branch|Microrhopias quixensis|dowant5
+insert|branch|Microrhopias quixensis|dowant3
+insert|branch|Oneillornis|lunant2
+insert|branch|Oneillornis|whtant1
+insert|branch|Hylopezus perspicillatus|stcant8
+insert|branch|Hylopezus perspicillatus|stcant9
+insert|branch|Thripophaga|Thripophaga fusciceps
+insert|branch|Thripophaga fusciceps|plasof3
+insert|branch|Thripophaga fusciceps|plasof4
+insert|branch|Thripophaga fusciceps|plasof2
+insert|branch|Cranioleuca|Cranioleuca antisiensis
+insert|branch|Cranioleuca|licspi5
+insert|branch|Cranioleuca antisiensis|barspi1
+insert|branch|Cranioleuca antisiensis|licspi2
+insert|branch|Synallaxis stictothorax|Synallaxis stictothorax [undescribed
+insert|branch|Synallaxis stictothorax [undescribed|Synallaxis stictothorax [undescribed La
+insert|branch|Synallaxis stictothorax [undescribed La|Synallaxis stictothorax [undescribed La Libertad
+insert|branch|Synallaxis stictothorax [undescribed La Libertad|necspi4
+insert|branch|Zimmerius|y01089
+insert|branch|Zimmerius viridiflavus|pertyr2
+insert|branch|Hemitriccus|Hemitriccus minor
+insert|branch|Hemitriccus minor|snetot2
+insert|branch|Hemitriccus minor|snetot1
+insert|branch|Pyrrhomyias|Pyrrhomyias cinnamomeus
+insert|branch|Pyrrhomyias cinnamomeus|cinfly1
+insert|branch|Pyrrhomyias cinnamomeus|cinfly4
+insert|branch|Pyrrhomyias cinnamomeus|cinfly3
+insert|branch|Myiarchus|Myiarchus swainsoni
+insert|branch|Myiarchus tuberculifer|ducfly5
+insert|branch|Myiarchus tuberculifer|ducfly6
+insert|branch|Myiarchus swainsoni|swafly4
+insert|branch|Myiarchus swainsoni|swafly2
+insert|branch|Chiroxiphia|Chiroxiphia pareola
+insert|branch|Chiroxiphia pareola|bubman3
+insert|branch|Chiroxiphia pareola|bubman1
+insert|branch|Chiroxiphia pareola|bubman2
+insert|branch|Machaeropterus|y01121
+insert|branch|Machaeropterus|Machaeropterus striolatus
+insert|branch|Machaeropterus|strman5
+insert|branch|Machaeropterus striolatus|strman4
+insert|branch|Machaeropterus striolatus|strman3
+insert|branch|Climacteridae|austre1
+insert|branch|Malurus|y01109
+insert|branch|Malurus|varfai5
+insert|branch|Malurus|Malurus assimilis
+insert|branch|Malurus assimilis|varfai3
+insert|branch|Malurus assimilis|varfai2
+insert|branch|Melidectes|y01063
+insert|branch|Phylidonyris|Phylidonyris novaehollandiae
+insert|branch|Phylidonyris novaehollandiae|Phylidonyris novaehollandiae x
+insert|branch|Phylidonyris novaehollandiae x|x00923
+insert|branch|Tephrodornis|y01096
+insert|branch|Pityriasidae|Pityriasis
+insert|branch|Pericrocotus|y01115
+insert|branch|Pachycephalidae|Pseudorectes
+insert|branch|Pseudorectes|whbpit1
+insert|branch|Pseudorectes|ruspit1
+insert|branch|Colluricincla megarhyncha|litshr2
+insert|branch|Colluricincla megarhyncha|litshr4
+insert|branch|Colluricincla megarhyncha|litshr5
+insert|branch|Colluricincla megarhyncha|litshr3
+insert|branch|Colluricincla megarhyncha|litshr1
+insert|branch|Colluricincla megarhyncha|litshr6
+insert|branch|Platylophidae|Platylophus
+insert|branch|Lanius|Lanius excubitor
+insert|branch|Lanius|ibgshr1
+insert|branch|Lanius excubitor|grgshr3
+insert|branch|Lanius excubitor|sogshr3
+insert|branch|Lanius excubitor|grgshr5
+insert|branch|Lanius excubitor|grgshr1
+insert|branch|Lanius excubitor|grgshr4
+insert|branch|Lanius excubitor|grgshr2
+insert|branch|Vireonidae|Hylophilus/Tunchiornis/Pachysylvia
+insert|branch|Hylophilus/Tunchiornis/Pachysylvia|greenl1
+insert|branch|Vireo|Vireo chivi
+insert|branch|Vireo|chivir1
+insert|branch|Vireo chivi|reevir2
+insert|branch|Vireo chivi|reevir3
+insert|branch|Oriolus chinensis|bknori7
+insert|branch|Oriolus chinensis|bknori5
+insert|branch|Oriolus chinensis|bknori6
+insert|branch|Oriolus chinensis|bknori4
+insert|branch|Dicrurus|bacdro1
+insert|branch|Dicrurus|Dicrurus bracteatus
+insert|branch|Dicrurus|Dicrurus densus
+insert|branch|Dicrurus|Dicrurus sumatranus
+insert|branch|Dicrurus|Dicrurus adsimilis
+insert|branch|Dicrurus|Dicrurus ludwigii
+insert|branch|Dicrurus ludwigii|sqtdro3
+insert|branch|Dicrurus ludwigii|sqtdro2
+insert|branch|Dicrurus adsimilis|fotdro2
+insert|branch|Dicrurus adsimilis|fotdro3
+insert|branch|Dicrurus adsimilis|fotdro4
+insert|branch|Dicrurus modestus|vemdro4
+insert|branch|Dicrurus modestus|vemdro5
+insert|branch|Dicrurus hottentottus|hacdro11
+insert|branch|Dicrurus hottentottus|hacdro5
+insert|branch|Dicrurus hottentottus|hacdro9
+insert|branch|Dicrurus hottentottus|hacdro10
+insert|branch|Dicrurus hottentottus|hacdro8
+insert|branch|Dicrurus hottentottus|hacdro12
+insert|branch|Dicrurus hottentottus|hacdro7
+insert|branch|Dicrurus hottentottus|hacdro4
+insert|branch|Dicrurus hottentottus|hacdro6
+insert|branch|Dicrurus sumatranus|sumdro2
+insert|branch|Dicrurus sumatranus|sumdro3
+insert|branch|Dicrurus densus|waldro3
+insert|branch|Dicrurus densus|waldro6
+insert|branch|Dicrurus densus|waldro7
+insert|branch|Dicrurus densus|waldro5
+insert|branch|Dicrurus densus|waldro2
+insert|branch|Dicrurus densus|waldro4
+insert|branch|Dicrurus bracteatus|spadro10
+insert|branch|Dicrurus bracteatus|spadro6
+insert|branch|Dicrurus bracteatus|spadro4
+insert|branch|Dicrurus bracteatus|spadro2
+insert|branch|Dicrurus bracteatus|spadro8
+insert|branch|Dicrurus bracteatus|spadro9
+insert|branch|Dicrurus bracteatus|spadro3
+insert|branch|Dicrurus bracteatus|spadro5
+insert|branch|Dicrurus bracteatus|spadro7
+insert|branch|Calocitta|y01067
+insert|branch|Pica|y01104
+insert|branch|Pica|orimag1
+insert|branch|Corvus|Corvus cornix
+insert|branch|Corvus cornix|hoocro3
+insert|branch|Corvus cornix|hoocro2
+insert|branch|Paradisaea|Paradisaea raggiana
+insert|branch|Paradisaea raggiana|Paradisaea raggiana x
+insert|branch|Paradisaea raggiana x|x00929
+insert|branch|Mirafra|y01118
+insert|branch|Riparia|y01086
+insert|branch|Melanochlora|Melanochlora sultanea
+insert|branch|Melanochlora sultanea|sultit2
+insert|branch|Melanochlora sultanea|sultit3
+insert|branch|Periparus|y01066
+insert|branch|Parus|Parus minor
+insert|branch|Parus minor|japtit3
+insert|branch|Parus minor|japtit5
+insert|branch|Parus minor|japtit1
+insert|branch|Parus minor|japtit2
+insert|branch|Parus minor|japtit4
+insert|branch|Sitta europaea|eurnut8
+insert|branch|Sitta europaea|eurnut7
+insert|branch|Sitta europaea|eurnut10
+insert|branch|Sitta europaea|eurnut9
+insert|branch|Polioptila|Polioptila albiloris
+insert|branch|Polioptila albiloris|whlgna3
+insert|branch|Polioptila albiloris|whlgna2
+insert|branch|Polioptila plumbea|trogna5
+insert|branch|Polioptila plumbea|trogna7
+insert|branch|Polioptila plumbea|trogna8
+insert|branch|Polioptila plumbea|trogna6
+insert|branch|Polioptila plumbea|trogna9
+insert|branch|Pycnonotidae|Brachypodius/Rubigula/Pycnonotus
+insert|branch|Pycnonotidae|Nok
+insert|branch|Pycnonotidae|Rubigula
+insert|branch|Pycnonotidae|Brachypodius
+insert|branch|Brachypodius|andbul1
+insert|branch|Brachypodius|blhbul1
+insert|branch|Brachypodius|gyhbul1
+insert|branch|Brachypodius|yewbul1
+insert|branch|Brachypodius|pubbul1
+insert|branch|Brachypodius|bawbul2
+insert|branch|Rubigula|bkcbul4
+insert|branch|Rubigula|bkcbul3
+insert|branch|Rubigula|bkcbul2
+insert|branch|Rubigula|bkcbul1
+insert|branch|Rubigula|blcbul2
+insert|branch|Rubigula|scbbul1
+insert|branch|Rubigula|gybbul1
+insert|branch|Rubigula|spebul1
+insert|branch|Nok|bafbul1
+insert|branch|Pycnonotus|pycnon3
+insert|branch|Brachypodius/Rubigula/Pycnonotus|pycnon1
+insert|branch|Regulus regulus|goldcr5
+insert|branch|Regulus regulus|goldcr7
+insert|branch|Regulus regulus|goldcr6
+insert|branch|Sylvietta|Sylvietta brachyura
+insert|branch|Sylvietta brachyura|norcro2
+insert|branch|Sylvietta brachyura|norcro3
+insert|branch|Phylloscopus|Phylloscopus [undescribed
+insert|branch|Phylloscopus|Phylloscopus grammiceps
+insert|branch|Phylloscopus|y01088
+insert|branch|Phylloscopus|Phylloscopus trochiloides
+insert|branch|Phylloscopus|y01101
+insert|branch|Phylloscopus trochiloides|grewar4
+insert|branch|Phylloscopus trochiloides|grewar5
+insert|branch|Phylloscopus trochiloides|grewar6
+insert|branch|Phylloscopus grammiceps|sunwar3
+insert|branch|Phylloscopus grammiceps|sunwar2
+insert|branch|Phylloscopus [undescribed|Phylloscopus [undescribed Rote
+insert|branch|Phylloscopus [undescribed Rote|rolwar1
+insert|branch|Acrocephalidae|Arundinax
+insert|branch|Arundinax|thbwar1
+insert|branch|Locustella|Locustella montis
+insert|branch|Locustella|jabwar1
+insert|branch|Locustella|dabwar1
+insert|branch|Locustella|y01100
+insert|branch|Locustella montis|timbuw1
+insert|branch|Locustella montis|javbuw1
+insert|branch|Cisticolidae|Oreolais
+insert|branch|Cisticolidae|Phragmacia
+insert|branch|Cisticolidae|Oreophilais
+insert|branch|Oreophilais|robpri1
+insert|branch|Phragmacia|nampri1
+insert|branch|Oreolais|ruwapa1
+insert|branch|Oreolais|blcapa2
+insert|branch|Prinia|Prinia rufifrons
+insert|branch|Prinia rufifrons|refwar3
+insert|branch|Prinia rufifrons|refwar1
+insert|branch|Cisticola|y01127
+insert|branch|Sylvia|Sylvia mystacea
+insert|branch|Sylvia mystacea|menwar3
+insert|branch|Sylvia mystacea|menwar2
+insert|branch|Zosterops|y01105
+insert|branch|Zosterops|Zosterops virens
+insert|branch|Zosterops senegalensis|afywhe4
+insert|branch|Zosterops senegalensis|afywhe3
+insert|branch|Zosterops poliogastrus|brrwhe10
+insert|branch|Zosterops poliogastrus|brrwhe8
+insert|branch|Zosterops poliogastrus|brrwhe9
+insert|branch|Zosterops poliogastrus|brrwhe7
+insert|branch|Zosterops poliogastrus|brrwhe6
+insert|branch|Zosterops virens|capwhe5
+insert|branch|Zosterops virens|capwhe4
+insert|branch|Pomatorhinus|Pomatorhinus montanus
+insert|branch|Pomatorhinus|y01119
+insert|branch|Pomatorhinus|y01110
+insert|branch|Pomatorhinus montanus|chbscb1
+insert|branch|Pomatorhinus montanus|chbscb2
+insert|branch|Pellorneidae|Laticilla
+insert|branch|Laticilla|swapri1
+insert|branch|Laticilla|ruvpri1
+insert|branch|Turdinus|Turdinus sepiarius
+insert|branch|Turdinus sepiarius|horbab4
+insert|branch|Turdinus sepiarius|horbab3
+insert|branch|Turdinus sepiarius|horbab1
+insert|branch|Turdoides|y01072
+insert|branch|Muscicapidae|Chamaetylas
+insert|branch|Muscicapa|y01085
+insert|branch|Cyornis|suljuf1
+insert|branch|Cyornis|banjuf1
+insert|branch|Cyornis|y01069
+insert|branch|Cyornis|Cyornis poliogenys
+insert|branch|Cyornis|y01092
+insert|branch|Cyornis poliogenys|Cyornis poliogenys x
+insert|branch|Cyornis poliogenys x|x00927
+insert|branch|Eumyias|y01103
+insert|branch|Chamaetylas|whcale1
+insert|branch|Chamaetylas|choale1
+insert|branch|Chamaetylas|retale1
+insert|branch|Chamaetylas|Chamaetylas poliocephala
+insert|branch|Chamaetylas|brcale1
+insert|branch|Chamaetylas poliocephala|bncale4
+insert|branch|Chamaetylas poliocephala|bncale3
+insert|branch|Chamaetylas poliocephala|bncale2
+insert|branch|Chamaetylas poliocephala|bncale1
+insert|branch|Tarsiger|y01124
+insert|branch|Phoenicurus|y01071
+insert|branch|Saxicola|y01123
+insert|branch|Turdidae|Otocichla
+insert|branch|Ixoreus|Ixoreus naevius/Turdus
+insert|branch|Otocichla|chithr2
+insert|branch|Ixoreus naevius/Turdus|y00822
+insert|branch|Mimus|y01122
+insert|branch|Mimus|Mimus gundlachii
+insert|branch|Mimus gundlachii|Mimus gundlachii x
+insert|branch|Mimus gundlachii x|x00907
+insert|branch|Dicaeum|y01106
+insert|branch|Motacilla flava|Motacilla flava x
+insert|branch|Motacilla flava x|x00934
+insert|branch|Anthus|Anthus furcatus
+insert|branch|Anthus furcatus|shbpip2
+insert|branch|Anthus furcatus|shbpip3
+insert|branch|Mycerobas|y01064
+insert|branch|Carpodacus|y01108
+insert|branch|Carpodacus|y01075
+insert|branch|Pinicola|Pinicola enucleator
+insert|branch|Pinicola enucleator|pingro6
+insert|branch|Pinicola enucleator|pingro1
+insert|branch|Pinicola enucleator|pingro5
+insert|branch|Pinicola enucleator|pingro4
+insert|branch|Pinicola enucleator|pingro3
+insert|branch|Pinicola enucleator|pingro2
+insert|branch|Loxia curvirostra|redcro29
+insert|branch|Calcarius|Calcarius lapponicus
+insert|branch|Calcarius lapponicus|Calcarius lapponicus x
+insert|branch|Calcarius lapponicus x|Calcarius lapponicus x Plectrophenax
+insert|branch|Calcarius lapponicus x Plectrophenax|x00919
+insert|branch|Emberiza|Emberiza godlewskii
+insert|branch|Emberiza godlewskii|godbun3
+insert|branch|Emberiza godlewskii|godbun2
+insert|branch|Passerellidae|Centronyx
+insert|branch|Passerellidae|Ammospiza
+insert|branch|Passerellidae|Spizella/Spizelloides
+insert|branch|Chlorospingus|y01126
+insert|branch|Ammodramus|Ammodramus savannarum/Centronyx
+insert|branch|Ammodramus|y01083
+insert|branch|Arremon|Arremon flavirostris
+insert|branch|Arremon flavirostris|sabspa3
+insert|branch|Arremon flavirostris|sabspa2
+insert|branch|Arremon flavirostris|sabspa4
+insert|branch|Spizella/Spizelloides|spizel
+insert|branch|Zonotrichia|Zonotrichia capensis
+insert|branch|Zonotrichia capensis|rucspa5
+insert|branch|Zonotrichia capensis|rucspa6
+insert|branch|Ammospiza|ammosp1
+insert|branch|Ammospiza|shtspa
+insert|branch|Ammospiza|sstspa
+insert|branch|Ammospiza|Ammospiza nelsoni
+insert|branch|Ammospiza|nstspa
+insert|branch|Ammospiza|Ammospiza maritima
+insert|branch|Ammospiza|seaspa
+insert|branch|Ammospiza|lecspa
+insert|branch|Ammospiza maritima|cssspa1
+insert|branch|Ammospiza maritima|seaspa2
+insert|branch|Ammospiza maritima|dusspa1
+insert|branch|Ammospiza maritima|seaspa1
+insert|branch|Ammospiza nelsoni|Ammospiza nelsoni x
+insert|branch|Ammospiza nelsoni|nstspa2
+insert|branch|Ammospiza nelsoni|nstspa1
+insert|branch|Ammospiza nelsoni x|x00450
+insert|branch|Centronyx|henspa
+insert|branch|Centronyx|baispa
+insert|branch|Ammodramus savannarum/Centronyx|y01081
+insert|branch|Ammodramus savannarum/Centronyx|y01082
+insert|branch|Teretistris|Teretistris fernandinae
+insert|branch|Teretistris fernandinae|Teretistris fernandinae x
+insert|branch|Teretistris fernandinae x|x00935
+insert|branch|Icteridae|Leistes
+insert|branch|Leistes|lotmea1
+insert|branch|Leistes|pammea1
+insert|branch|Leistes|permea1
+insert|branch|Leistes|whbbla2
+insert|branch|Leistes|rebbla1
+insert|branch|Molothrus|y01117
+insert|branch|Agelasticus|Agelasticus cyanopus
+insert|branch|Agelasticus cyanopus|unibla3
+insert|branch|Agelasticus cyanopus|unibla1
+insert|branch|Setophaga pitiayumi|tropar9
+insert|branch|Setophaga coronata x|x00937
+insert|branch|Cyanoloxia|y01068
+insert|branch|Passerina|Passerina cyanea
+insert|branch|Passerina cyanea|Passerina cyanea x
+insert|branch|Passerina cyanea x|x00918
+insert|branch|Ramphocelus|Ramphocelus passerinii
+insert|branch|Ramphocelus passerinii|Ramphocelus passerinii x
+insert|branch|Ramphocelus passerinii|chetan1
+insert|branch|Ramphocelus passerinii|pastan1
+insert|branch|Ramphocelus passerinii x|x00898
+insert|branch|Dubusia taeniata|bubmot3
+insert|branch|Dubusia taeniata|bubmot4
+insert|branch|Tangara arthus|goltan5
+insert|branch|Tangara arthus|goltan4
+insert|branch|Conirostrum|Conirostrum albifrons
+insert|branch|Conirostrum albifrons|capcon2
+insert|branch|Conirostrum albifrons|capcon3
+insert|branch|Nesospiza|y01102
+insert|branch|Nesospiza acunhae|inifin1
+insert|branch|Sporophila|Sporophila leucoptera
+insert|branch|Sporophila leucoptera|whbsee4
+insert|branch|Sporophila leucoptera|whbsee3
+insert|branch|Coereba flaveola|banana5
+insert|branch|Coereba flaveola|banana8
+insert|branch|Coereba flaveola|banana10
+insert|branch|Coereba flaveola|banana7
+insert|branch|Coereba flaveola|banana12
+insert|branch|Coereba flaveola|banana9
+insert|branch|Coereba flaveola|banana11
+insert|branch|Coereba flaveola|banana6
+insert|branch|Camarhynchus|Camarhynchus pallidus
+insert|branch|Camarhynchus pallidus|woofin3
+insert|branch|Camarhynchus pallidus|woofin2
+insert|branch|Passeridae|Gymnornis
+insert|branch|Passer domesticus x|x00917
+insert|branch|Gymnornis|buspet1
+insert|branch|Gymnornis|yetpet1
+insert|branch|Gymnornis|chspet1
+insert|branch|Gymnornis|yespet1
+insert|branch|Ploceus|y01120
+insert|branch|Ploceus|y01062
+insert|branch|Nigrita|nigrit1
+insert|branch|Erythrura|parrot2
+insert|branch|Erythrura|y01107
+insert|branch|Lonchura|Lonchura flaviprymna
+insert|branch|Lonchura|Lonchura malacca
+insert|branch|Lonchura malacca|Lonchura malacca x
+insert|branch|Lonchura malacca x|x00932
+insert|branch|Lonchura flaviprymna|Lonchura flaviprymna x
+insert|branch|Lonchura flaviprymna x|x00936
