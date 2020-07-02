@@ -17,8 +17,9 @@ $header_lookup = array();
 
 $done = false;
 
+$filename = '2017/eBird_Taxonomy_v2017_18Aug2017.csv';
 $filename = '2018/eBird_Taxonomy_v2018_14Aug2018.csv';
-//$filename = '2017/eBird_Taxonomy_v2017_18Aug2017.csv';
+$filename = '2019/eBird_Taxonomy_v2019.csv';
 
 $file = @fopen($filename, "r") or die("couldn't open $filename");		
 $file_handle = fopen($filename, "r");
